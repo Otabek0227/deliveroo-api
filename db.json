@@ -1,4 +1,5 @@
-{filter: [
+{
+        "filter": [
         {
             "name": "Acai",
             "count": 7
