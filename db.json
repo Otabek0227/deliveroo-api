@@ -1,5 +1,5 @@
 {
-        "categories": [
+    "filter": [
         {
             "name": "Acai",
             "count": 7
@@ -71,6 +71,32 @@
         {
             "name": "Wraps",
             "count": 99
+        }
+    ],
+    "categories": [
+        {
+            "text": "Restaurants",
+            "img": "require(@/assets/data/c1.png)"
+        },
+        {
+            "text": "Grocery",
+            "img": "require(@/assets/data/c2.png)"
+        },
+        {
+            "text": "Offers",
+            "img": "require(@/assets/data/c3.png)"
+        },
+        {
+            "text": "Pickup",
+            "img": "require(@/assets/data/c4.png)"
+        },
+        {
+            "text": "HOP",
+            "img": "require(@/assets/data/c5.png)"
+        },
+        {
+            "text": "Pharmacy",
+            "img": "require(@/assets/data/c6.png)"
         }
     ]
 }
