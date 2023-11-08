@@ -73,40 +73,40 @@
             "count": 99
         }
     ],
-    "categoryCards": [
+    "category-cards": [
         {
             "text": "Restaurants",
-            "img": "require(@/assets/data/c1.png)"
+            "img": "https://i.ibb.co/12RqCXw/c2.png"
         },
         {
             "text": "Grocery",
-            "img": "require(@/assets/data/c2.png)"
+            "img": "https://i.ibb.co/bb36Xj5/c1.png"
         },
         {
             "text": "Offers",
-            "img": "require(@/assets/data/c3.png)"
+            "img": "https://i.ibb.co/pwkXpSj/c3.png"
         },
         {
             "text": "Pickup",
-            "img": "require(@/assets/data/c4.png)"
+            "img": "https://i.ibb.co/nQVsSmJ/c4.png"
         },
         {
             "text": "HOP",
-            "img": "require(@/assets/data/c5.png)"
+            "img": "https://i.ibb.co/ZmPJwpF/c5.png"
         },
         {
             "text": "Pharmacy",
-            "img": "require(@/assets/data/c6.png)"
+            "img": "https://i.ibb.co/m4qS9Wc/c6.png"
         }
     ],
-    "restaurantCards": [
+    "restaurant-cards": [
         {
             "id": "1",
             "name": "Vapiano",
             "rating": "4.5 Excellent",
             "ratings": "(500+)",
             "distance": "0.7 miles away",
-            "img": "require(@/assets/data/r1.jpeg)",
+            "img": "            https://i.ibb.co/37J1x5Z/r1.jpg",
             "tags": [
                 "Italian",
                 "Pizza",
@@ -121,7 +121,7 @@
             "rating": "4.9 Excellent",
             "ratings": "(500+)",
             "distance": "1.7 miles away",
-            "img": "require(@/assets/data/r2.jpeg)",
+            "img": "https://i.ibb.co/brsD8tP/r2.jpg",
             "tags": [
                 "Salads",
                 "Vegan",
@@ -136,7 +136,7 @@
             "rating": "4.5 Excellent",
             "ratings": "(500+)",
             "distance": "3 miles away",
-            "img": "require(@/assets/data/r3.jpeg)",
+            "img": "https://i.ibb.co/87FBWcS/r3.jpg",
             "tags": [
                 "Spanish",
                 "Salads",
@@ -146,14 +146,14 @@
             "duration": "25 - 45"
         }
     ],
-    "offerCards": [
+    "offer-cards": [
         {
             "id": "3",
             "name": "El Minero",
             "rating": "4.5 Excellent",
             "ratings": "(500+)",
             "distance": "3 miles away",
-            "img": "require(@/assets/data/r3.jpeg)",
+            "img": "https://i.ibb.co/87FBWcS/r3.jpg",
             "tags": [
                 "Spanish",
                 "Salads",
@@ -168,7 +168,7 @@
             "rating": "4.5 Excellent",
             "ratings": "(500+)",
             "distance": "0.7 miles away",
-            "img": "require(@/assets/data/r1.jpeg)",
+            "img": "https://i.ibb.co/37J1x5Z/r1.jpg",
             "tags": [
                 "Italian",
                 "Pizza",
@@ -183,7 +183,7 @@
             "rating": "4.9 Excellent",
             "ratings": "(500+)",
             "distance": "1.7 miles away",
-            "img": "require(@/assets/data/r2.jpeg)",
+            "img": "https://i.ibb.co/brsD8tP/r2.jpg",
             "tags": [
                 "Salads",
                 "Vegan",
