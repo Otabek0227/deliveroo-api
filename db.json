@@ -1,4 +1,7 @@
 {
+  "res": [
+    {"img": "require('@/assets/data/1.png')"}
+  ],
   "categories": [
     {
       "name": "Acai",
