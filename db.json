@@ -73,32 +73,6 @@
       "count": 99
     }
   ],
-  "category-cards": [
-    {
-      "text": "Restaurants",
-      "img": "https://i.ibb.co/12RqCXw/c2.png"
-    },
-    {
-      "text": "Grocery",
-      "img": "https://i.ibb.co/bb36Xj5/c1.png"
-    },
-    {
-      "text": "Offers",
-      "img": "https://i.ibb.co/pwkXpSj/c3.png"
-    },
-    {
-      "text": "Pickup",
-      "img": "https://i.ibb.co/nQVsSmJ/c4.png"
-    },
-    {
-      "text": "HOP",
-      "img": "https://i.ibb.co/ZmPJwpF/c5.png"
-    },
-    {
-      "text": "Pharmacy",
-      "img": "https://i.ibb.co/m4qS9Wc/c6.png"
-    }
-  ],
   "restaurant": {
     "name": "Vapiano",
     "rating": "4.5 Excellent",
